@@ -1,0 +1,12 @@
+Color Modes:
+1. CMYK (Cyan Magenta Yellow Black): Color Printing
+2. RGB (Red Green Blue): On Digital Device
+3. Greyscale etc.
+
+Color Ingredients:
+1. Hue: Origin of the Color
+2. Saturation: Intensity of the Color
+3.Value: Brightness of the Color
+         3.1) Tint: Brighter Version
+         3.2) Shade: Darker Version
+*Tone: By Adding Grey

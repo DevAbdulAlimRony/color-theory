@@ -1,0 +1,29 @@
+Meaning of Different colors
+Color Like and Dislike when Gender Difference
+
+Page Color Considerations:
+1. Primary Color
+2. Selected Color(Hover, Active)
+3. Accent Color(Links, Button)
+4. Semantic Colors (Warning[yellow], Error[Red], Success[Green], Information[Blue])
+5. Neutral Colors
+6. Chart and Data Visualization Colors
+
+Make Accent Color:
+1. choose Primary Color
+2. Select HSB in Figma
+3. Decrease Hue by 30 to 40 points
+4. Increase Brightness 5 to 10 Points
+
+Semantic colors
+1. yellow for Warning as background
+2. Shade of Yellow as Foreground
+
+Use Cases: 60% Primary(Background), 30% Secondary(Text), 10% Accent
+
+Naming Convention: Primary/hover, Primary/Active, Primary/Inactive
+
+Making Gradients: 
+1. coolers.co -> more-> gradient
+2. Use Same Color at all Positions
+3. Now, Scroll bar forward or backward little to make analogous color of that base color.
